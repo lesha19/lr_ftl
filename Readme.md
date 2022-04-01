@@ -9,6 +9,11 @@
 7. Взлетаем обратно на изначальную высоту и летим на зону посадки
 8. Садимся и получаем 2 балла
 
+## Симулятор
+
+Так же у нас есть задание для [cloversim](https://github.com/FTL-team/clover_sim). Оно находится в папке fr_task, для использования задания нужно установить cloversim и скопировать fr_task в папку tasks в  cloversim после чего запустить с помощью `sudo ./clover_sim launch --task=fr_task nto_workspace`
+![Simulator](assets/sim.png)
+
 
 # Инженерное задание
 
